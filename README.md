@@ -5,9 +5,9 @@
 <img align="right" alt="Programming" width="400" src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnfrancisroldan&label=Profile%20views&color=0e75b6&style=flat" alt="johnfrancisroldan" /> </p>
 
-- 🔭 I’m currently working on [Chat App](https://github.com/johnfrancisroldan/chat_app)
+- 🔭 I’m currently working on [Activies in Codecademy](https://github.com/johnfrancisroldan/activities )
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available at [https://github.com/johnfrancisroldan](https://github.com/johnfrancisroldan)
 
